@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+docs/
+reports/*.html
+jupyter.log
+jupyter.pid
+build_notebook.py
+complete_notebook_builder.py
+create_full_notebook.py
+extend_notebook.py
+generate_complete_notebook.py
+*.pid
